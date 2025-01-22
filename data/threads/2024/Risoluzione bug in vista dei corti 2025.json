@@ -1,0 +1,32 @@
+[
+    [
+        "161783",
+        "il mietitore",
+        "Mi chiedevo: dato che in queste settimane partir\u00e0 il concorso dei corti 2025, presumo, non si potrebbe fare qualcosa per il bug del forum che mostra, come \"ultimo messaggio\" del sottoforum dei corti, sempre e solo l'ultimo post di questo thread qui?https://librogame.net/index.php/forum/topic?id=5854Lo trovo estremamente scomodo. Anche adesso che il bando non \u00e8 ancora uscito mi tocca, quasi ogni giorno, aprire singolarmente le sezioni del 2025 e del 2024 per vedere se ci sono novit\u00e0, cosa che mi (ci) sarebbe risparmiata se questo bug fosse risolto. Tra l'altro \u00e8 cos\u00ec da oltre un anno (immagino proprio da quando venne aperto quel thread)."
+    ],
+    [
+        "161788",
+        "HarlockHrk",
+        "In bocca al lupo a sistemare il bug di un software ormai scomparso... in compenso puoi fare una sottoscrizione RSS al forum, \u00e8 quel che ho fatto io per ricevere le notifiche dei nuovi post!!"
+    ],
+    [
+        "161790",
+        "il mietitore",
+        "Ma phpBB non \u00e8 scomparso; l'ultima versione \u00e8 del 29 agosto 2024."
+    ],
+    [
+        "161793",
+        "il mietitore",
+        "Frattanto non so se sia stato fatto qualcosa ma il bug \u00e8 stato risolto O_OOnore a chi se n'\u00e8 occupato."
+    ],
+    [
+        "161794",
+        "FinalFabbiX",
+        "il mietitore ha scritto:Frattanto non so se sia stato fatto qualcosa ma il bug \u00e8 stato risolto O_OOnore a chi se n'\u00e8 occupato.Non \u00e8 stato toccato niente. Purtroppo il bug dipende da una insidiosa race condition (due codici che tentano di toccare lo stesso dato) ed \u00e8 parecchio uno sbatti da risolvere."
+    ],
+    [
+        "161804",
+        "Pirata delle Alpi",
+        "FinalFabbiX ha scritto:Non \u00e8 stato toccato niente. Purtroppo il bug dipende da una insidiosa race condition (due codici che tentano di toccare lo stesso dato) ed \u00e8 parecchio uno sbatti da risolvere.FinalFabbiX \u00e8 un esperto!Si vocifera nelle peggiori taverne di Hamerdal che sia stato lui a hackerare i sistemi di difesa del monastero dei Ramas un po' prima del terribile attacco dei Signori delle Tenebre!"
+    ]
+]
